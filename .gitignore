@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Secrets
+**/secrets.h
+
+# ESP32
+**/debug.cfg
+**/debug_custom.json
+**/esp32s2.svd
